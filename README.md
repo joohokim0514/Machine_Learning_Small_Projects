@@ -1,6 +1,7 @@
 ### Machine Learning Small Projects
 
 - This repository contains my implementation of Machine Learning Algorithms.
+- More will be added in the future.
 
 1. Linear Regression
 2. Logistic Regresson
